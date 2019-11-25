@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="809016d6-f8ac-438c-b345-1a064a01bf3c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/tregfsgr.json" beforeDir="false" afterPath="$PROJECT_DIR$/tregfsgr/tregfsgr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fdaeawfd/htshns.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +18,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -47,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573114274122</updated>
       <workItem from="1573114275357" duration="67000" />
+      <workItem from="1574680853858" duration="112000" />
     </task>
     <servers />
   </component>
@@ -58,7 +61,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
