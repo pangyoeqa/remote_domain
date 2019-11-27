@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="809016d6-f8ac-438c-b345-1a064a01bf3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fdaeawfd/htshns.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sjyshgra/syukutvfd.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,6 +19,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -49,6 +50,7 @@
       <updated>1573114274122</updated>
       <workItem from="1573114275357" duration="67000" />
       <workItem from="1574681035847" duration="35000" />
+      <workItem from="1574848125071" duration="674000" />
     </task>
     <servers />
   </component>
