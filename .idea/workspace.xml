@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="809016d6-f8ac-438c-b345-1a064a01bf3c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/feoinknafd/feoinknafd.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htshgra/htshgra.json" beforeDir="false" afterPath="$PROJECT_DIR$/htshgra/htshgra.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +35,19 @@
       <recent name="$PROJECT_DIR$/tregfsgr" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -54,7 +67,8 @@
       <workItem from="1605167807398" duration="166000" />
       <workItem from="1609743096005" duration="299000" />
       <workItem from="1609751092233" duration="85000" />
-      <workItem from="1615046302776" duration="195000" />
+      <workItem from="1615046302776" duration="637000" />
+      <workItem from="1624354920129" duration="114000" />
     </task>
     <servers />
   </component>
